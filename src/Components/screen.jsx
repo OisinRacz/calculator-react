@@ -1,4 +1,4 @@
-import { Textfit } from "react-textfit"
+import { Textfit } from "@aw-web-design/react-textfit"
 
 function screen({value}){
   return (
