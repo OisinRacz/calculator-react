@@ -14,7 +14,9 @@ function App() {
       <Screen value="0" />
       <Buttonbox>
 
-        <Button className="" value="" onClick={() => {console.log("Clicked")}}/>
+        <Button className="" value="1" onClick={() => {console.log("Clicked")}}/>
+        <Button className="" value="1" onClick={() => {console.log("Clicked")}}/>
+        <Button className="" value="1" onClick={() => {console.log("Clicked")}}/>
       </Buttonbox>
      </Wrapper>
     </>

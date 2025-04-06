@@ -1,8 +1,8 @@
 import "./wrapper.css"
 
-function wrapper({props}){
+function wrapper({children}){
   return (
-    <div className="wrapper">{props}</div>
+    <div className="wrapper">{children}</div>
   );
 }
 
