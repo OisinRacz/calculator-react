@@ -18,6 +18,21 @@ function App() {
         <Button className="" value="1" onClick={() => {console.log("Clicked")}}/>
         <Button className="" value="1" onClick={() => {console.log("Clicked")}}/>
         <Button className="" value="1" onClick={() => {console.log("Clicked")}}/>
+        <Button className="" value="1" onClick={() => {console.log("Clicked")}}/>
+        <Button className="" value="1" onClick={() => {console.log("Clicked")}}/>
+        <Button className="" value="1" onClick={() => {console.log("Clicked")}}/>
+        <Button className="" value="1" onClick={() => {console.log("Clicked")}}/>
+        <Button className="" value="1" onClick={() => {console.log("Clicked")}}/>
+        <Button className="" value="1" onClick={() => {console.log("Clicked")}}/>
+        <Button className="" value="1" onClick={() => {console.log("Clicked")}}/>
+        <Button className="" value="1" onClick={() => {console.log("Clicked")}}/>
+        <Button className="" value="1" onClick={() => {console.log("Clicked")}}/>
+        <Button className="" value="1" onClick={() => {console.log("Clicked")}}/>
+        <Button className="" value="1" onClick={() => {console.log("Clicked")}}/>
+        <Button className="" value="1" onClick={() => {console.log("Clicked")}}/>
+        <Button className="" value="1" onClick={() => {console.log("Clicked")}}/>
+        <Button className="" value="1" onClick={() => {console.log("Clicked")}}/>
+        <Button className="" value="1" onClick={() => {console.log("Clicked")}}/>
       </Buttonbox>
      </Wrapper>
     </>
