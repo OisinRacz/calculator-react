@@ -1,9 +1,9 @@
 .screen {
-  background-color: grey;
-  width: 300px;
-  margin-left: 20px;
-  margin-top: 15px;
-  border-radius: 10px;
+  background-color: rgb(105, 118, 100);
+  width: 85%;
+  border-radius: 5%;
+  margin-left: 7.5%;
+  margin-bottom: 10%;
   text-align: right;
-  margin-bottom: 15px;
+  color: rgb(23, 35, 25);
 }
