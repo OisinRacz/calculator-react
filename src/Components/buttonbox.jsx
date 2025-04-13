@@ -1,3 +1,4 @@
+import "./buttonbox.css"
 function Buttonbox ({ children }){
   return (
     <div className="buttonBox">
